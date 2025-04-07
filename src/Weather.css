@@ -26,8 +26,8 @@
 }
 
 .Weather .img {
-  height: 64px;
-  width: 64px;
+  height: 62px;
+  width: 62px;
   margin-right: 10px;
   display: inline-block;
 }
@@ -35,22 +35,22 @@
 .Weather .temperature {
   font-weight: bold;
   color: rgb(33, 33, 33);
-  font-size: 64px;
+  font-size: 60px;
   line-height: 64px;
   font-weight: 400;
 }
 
 .Weather .unit {
   color: rgb(33, 33, 33);
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 400;
   position: relative;
   line-height: 1;
-  top: -20px;
+  top: -30px;
   margin-left: 5px;
 }
 
-.image-position{
+.image-position {
   display: flex;
-  align-items: center
+  align-items: center;
 }
